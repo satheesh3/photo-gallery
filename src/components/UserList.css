@@ -1,0 +1,23 @@
+.userlist {
+    text-align: center;
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: 500;
+    font-variant-caps: all-petite-caps;
+}
+.userlist__active {
+    text-align: center;
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: 500;
+    font-variant-caps: all-petite-caps;
+    color:#ea4c89;
+}
+@media (max-width: 540px) {
+    .userlist {
+      font-size: 12px;
+    }
+    .userlist__active {
+        font-size: 12px;
+    }
+  }
