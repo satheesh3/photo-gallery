@@ -1,9 +1,13 @@
 
+
+
+Clone the project using git clone https://github.com/satheesh3/photo-gallery.git. <br>
+cd photo-gallery. <br>
+Install npm modules using `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
-
-Clone the project using 
 
 ### `npm start`
 
